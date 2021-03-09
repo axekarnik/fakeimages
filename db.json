@@ -1,1 +1,149 @@
-
+{
+  "posts" : [
+    
+    {
+      "id": 1,
+      "title" : "Beach View",
+      "imageUrl": "https://i.picsum.photos/id/100/2500/1656.jpg?hmac=gWyN-7ZB32rkAjMhKXQgdHOIBRHyTSgzuOK6U0vXb1w",
+      "likes": 80,
+      "description": "A beautiful place by the ocean on the coast of California",
+      "hostName" : "Andrew Ken",
+      "location" : "Santa Barbara"
+    },
+    {
+      "id": 2,
+      "title" : "Camping",
+      "imageUrl": "https://i.picsum.photos/id/1/5616/3744.jpg?hmac=kKHwwU8s46oNettHKwJ24qOlIAsWN9d2TtsXDoCWWsQ",
+      "likes": 30,
+      "description": "Campsite south of Yosemite",
+      "hostName" : "Kellen G",
+      "location" : "Yosemite"
+    },
+    {
+      "id": 3,
+      "title" : "Old City",
+      "imageUrl": "https://i.picsum.photos/id/101/2621/1747.jpg?hmac=cu15YGotS0gIYdBbR1he5NtBLZAAY6aIY5AbORRAngs",
+      "likes": 180,
+      "description": "An old building in an old town",
+      "hostName" : "Robert havin",
+      "location" : "Colombia"
+    },
+    
+    {
+      "id": 4,
+      "title" : "Mountains",
+      "imageUrl": "https://i.picsum.photos/id/1000/5626/3635.jpg?hmac=qWh065Fr_M8Oa3sNsdDL8ngWXv2Jb-EE49ZIn6c0P-g",
+      "likes": 300,
+      "description": "Peak of Himalayas",
+      "hostName" : "Maddy Kollen",
+      "location" : "Himalayas"
+    },
+    
+    
+    {
+      "id": 5,
+      "title" : "Camping",
+      "imageUrl": "https://i.picsum.photos/id/1/5616/3744.jpg?hmac=kKHwwU8s46oNettHKwJ24qOlIAsWN9d2TtsXDoCWWsQ",
+      "likes": 30,
+      "description": "Campsite south of Yosemite",
+      "hostName" : "Kellen G",
+      "location" : "Yosemite"
+    },
+    
+    
+    {
+      "id": 6,
+      "title" : "A valley with a view",
+      "imageUrl": "https://i.picsum.photos/id/1015/6000/4000.jpg?hmac=aHjb0fRa1t14DTIEBcoC12c5rAXOSwnVlaA5ujxPQ0I",
+      "likes": 590,
+      "description": "A beautiful view of a valley over seeing Colorado river",
+      "hostName" : "Smith A",
+      "location" : "Colorado"
+    },
+    
+    
+    
+    {
+      "id": 7,
+      "title" : "Sedona Red Rocks",
+      "imageUrl": "https://i.picsum.photos/id/1016/3844/2563.jpg?hmac=WEryKFRvTdeae2aUrY-DHscSmZuyYI9jd_-p94stBvc",
+      "likes": 900,
+      "description": "Red Rock mountains at Sedona National Park",
+      "hostName" : "Miles Key",
+      "location" : "Sedona National Monument"
+    },
+    
+    
+    
+    {
+      "id": 8,
+      "title" : "Winding Roads",
+      "imageUrl": "https://i.picsum.photos/id/1018/3914/2935.jpg?hmac=3N43cQcvTE8NItexePvXvYBrAoGbRssNMpuvuWlwMKg",
+      "likes": 15,
+      "description": "A nice winding road in the middle of the meadows",
+      "hostName" : "Shruher H",
+      "location" : "Norway"
+    },
+    
+    
+    {
+      "id": 9,
+      "title" : "Haze in the forest",
+      "imageUrl": "https://i.picsum.photos/id/1021/2048/1206.jpg?hmac=fqT2NWHx783Pily1V_39ug_GFH1A4GlbmOMu8NWB3Ts",
+      "likes": 186,
+      "description": "A beautiful forest north of Amazon with a lovely haze in the morning",
+      "hostName" : "Sam T",
+      "location" : "Amazon rain forest"
+    },
+    
+    {
+      "id": 10,
+      "title" : "Northen Lights",
+      "imageUrl": "https://i.picsum.photos/id/1022/6000/3376.jpg?hmac=FBA9Qbec8NfDlxj8xLhV9k3DQEKEc-3zxkQM-hmfcy0",
+      "likes": 762,
+      "description": "A serene view of northern lights overseeing Iceland",
+      "hostName" : "Peter Finland",
+      "location" : "Iceland"
+    },
+    
+    {
+      "id": 11,
+      "title" : "Train Pit Stop",
+      "imageUrl": "https://i.picsum.photos/id/1026/4621/3070.jpg?hmac=OJ880cIneqAKIwHbYgkRZxQcuMgFZ4IZKJasZ5c5Wcw",
+      "likes": 79,
+      "description": "A busy day at the back of the trains docking station",
+      "hostName" : "Mahesh S",
+      "location" : "Turkey"
+    },
+    
+     {
+      "id": 12,
+      "title" : "Central Park NY",
+      "imageUrl": "https://i.picsum.photos/id/1029/4887/2759.jpg?hmac=uMSExsgG8_PWwP9he9Y0LQ4bFDLlij7voa9lU9KMXDE",
+      "likes": 119,
+      "description": "A capture from the top a penthouse overlooking Central Park",
+      "hostName" : "Dominic Lue",
+      "location" : "New York"
+    },
+    
+    {
+      "id": 13,
+      "title" : "A quiet day at the airport",
+      "imageUrl": "https://i.picsum.photos/id/1033/2048/1365.jpg?hmac=zEuPfX7t6U866nzXjWF41bf-uxkKOnf1dDrHXmhcK-Q",
+      "likes": 23,
+      "description": "Seol airport during its non busy hours",
+      "hostName" : "Kou J",
+      "location" : "Korea"
+    },
+    
+    {
+      "id": 14,
+      "title" : "Falling waters",
+      "imageUrl": "https://i.picsum.photos/id/1039/6945/4635.jpg?hmac=tdgHDygif2JPCTFMM7KcuOAbwEU11aucKJ8eWcGD9_Q",
+      "likes": 320,
+      "description": "A pictursque view of a waterfall in the mountains",
+      "hostName" : "Pet Mark",
+      "location" : "Scotland"
+    }
+  ]
+}
